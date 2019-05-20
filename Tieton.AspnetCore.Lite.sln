@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tieton.AspnetCore.Lite", "Tieton.AspnetCore.Lite\Tieton.AspnetCore.Lite.csproj", "{3CF779CA-0FAB-411F-86B2-5F296126404E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tieton.AspnetCore.Lite.CoreApp", "Tieton.AspnetCore.Lite.CoreApp\Tieton.AspnetCore.Lite.CoreApp.csproj", "{F01D4F26-0AB6-41E6-AB3F-C8F43B63957E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CF779CA-0FAB-411F-86B2-5F296126404E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF779CA-0FAB-411F-86B2-5F296126404E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF779CA-0FAB-411F-86B2-5F296126404E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF779CA-0FAB-411F-86B2-5F296126404E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F01D4F26-0AB6-41E6-AB3F-C8F43B63957E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01D4F26-0AB6-41E6-AB3F-C8F43B63957E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01D4F26-0AB6-41E6-AB3F-C8F43B63957E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01D4F26-0AB6-41E6-AB3F-C8F43B63957E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F90B007E-F546-4B10-8595-003F96639CB1}
+	EndGlobalSection
+EndGlobal
